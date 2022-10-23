@@ -1,3 +1,13 @@
+## Name: Ajith M
+
+- Place: India
+- Job: Student
+- GitHub: [Ajith6901](https://github.com/Ajith6901)
+- LinkedIn: [Ajith M](https://www.linkedin.com/in/ajith-m1/)
+- Twitter: [Ajith M](https://twitter.com/ajithm09260092)
+- Portfolio: [Ajith M](https://ajith6901.github.io/portfolio/)
+
+
 ## Name: Mohamed Khaled Yousef
 
 - Place: Egypt
